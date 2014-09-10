@@ -155,3 +155,5 @@ $RECYCLE.BIN/
 # Mac desktop service store files
 .DS_Store
 packages/*
+MultiServer/App_Data/aspnet-MultiServer-20140910031144.mdf
+MultiServer/App_Data/aspnet-MultiServer-20140910031144_log.ldf
